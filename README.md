@@ -1,7 +1,6 @@
 # SKN15-1st-4TEAM
 
-
-# 1. 팀 소개
+<h1 align="center">  팀 소개  </h1>
 
 - 팀명
 
@@ -9,7 +8,7 @@
 
  
 
-# 2. 프로젝트 개요
+<h1 align="center">  프로젝트 개요  </h1>
 
 - 프로젝트 명
 
@@ -19,7 +18,8 @@
 
 - 프로젝트 목표
 
-# 3. 기술 스택
+<h1 align="center">  기술 스택  </h1>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
