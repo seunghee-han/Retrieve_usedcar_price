@@ -13,8 +13,7 @@
 
 | 한승희 | 강민정 | 신정은 | 이은진 | 최서린 |
 | :---: | :---: | :---: | :---: | :---: |
-| - 팀장<br/>- 지역별 자동차 등록 현황<br/>(그래프) | - ERD 설계<br/>- DB 구현 | - ERD 설계<br/>- 현대자동차 FAQ | - 화면 설계<br/>- 제네시스 FAQ | - 라이브러리 조사<br/>- 연도별 자동차 등록 현황 
-| [@INe](https://github.com/INe904) | [@kkminhye](https://github.com/kkminhye) | [@yeseulnim](https://github.com/yeseulnim) | [@sinminju](https://github.com/sinminju) | [@redwin02](https://github.com/redwin-02) | 
+| • 팀장<br/>• Crawling<br/> | • Crawling | • Streamlit | • Streamlit | • DB 구현| [@INe](https://github.com/INe904) | [@kkminhye](https://github.com/kkminhye) | [@yeseulnim](https://github.com/yeseulnim) | [@sinminju](https://github.com/sinminju) | [@redwin02](https://github.com/redwin-02) | 
 <br/>
 
 
