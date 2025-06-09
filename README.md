@@ -2,8 +2,8 @@
 
 <h1 align="center"> ⭐ 팀 소개 ⭐ </h1>
 
- <br/>
 <div align="center">
+ <br/>
 | 한승희 | 강민정 | 신정은 | 이은진 | 최서린 |
 | :---: | :---: | :---: | :---: | :---: |
 | • 팀장<br/>• Crawling<br/> | • Crawling | • Streamlit | • Streamlit | • DB 구현
