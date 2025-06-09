@@ -2,14 +2,15 @@
 
 <h1 align="center"> ⭐ 팀 소개 ⭐ </h1>
 
-<div align="center">
  <br/>
+ <div align="center">
+
 | 한승희 | 강민정 | 신정은 | 이은진 | 최서린 |
 | :---: | :---: | :---: | :---: | :---: |
 | • 팀장<br/>• Crawling<br/> | • Crawling | • Streamlit | • Streamlit | • DB 구현
 | [@seunghee-han](https://github.com/seunghee-han) | [@kkminhye](https://github.com/kkminhye) | [@yeseulnim](https://github.com/yeseulnim) | [@sinminju](https://github.com/sinminju) | [@redwin02](https://github.com/redwin-02) | 
-<br/>
 </div>
+<br/>
 
 <h1 align="center"> 📌 프로젝트 개요 📌 </h1>
 
