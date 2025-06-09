@@ -3,21 +3,20 @@
 <h1 align="center"> ⭐ 팀 소개 ⭐ </h1>
 
  <br/>
-
+<div align="center">
 | 한승희 | 강민정 | 신정은 | 이은진 | 최서린 |
 | :---: | :---: | :---: | :---: | :---: |
 | • 팀장<br/>• Crawling<br/> | • Crawling | • Streamlit | • Streamlit | • DB 구현
 | [@seunghee-han](https://github.com/seunghee-han) | [@kkminhye](https://github.com/kkminhye) | [@yeseulnim](https://github.com/yeseulnim) | [@sinminju](https://github.com/sinminju) | [@redwin02](https://github.com/redwin-02) | 
 <br/>
-
+</div>
 
 <h1 align="center"> 📌 프로젝트 개요 📌 </h1>
 
-- 프로젝트 명
-
 - 프로젝트 소개
-
-- 프로젝트 필요성(배경)
+** 중고차 등록 현황 및 조회 시스템**
+  
+- 프로젝트 목적
 
 - 프로젝트 목표
 
