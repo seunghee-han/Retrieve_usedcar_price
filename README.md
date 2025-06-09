@@ -1,4 +1,6 @@
 # SKN15-1st-4TEAM
+# 🚗중고차 시세 조회 및 기업 FAQ 조회 시스템
+
 
 <h1 align="center"> ⭐ 팀 소개 ⭐ </h1>
 
@@ -15,11 +17,13 @@
 <h1 align="center"> 📌 프로젝트 개요 📌 </h1>
 
 <h3 align="center"> • 프로젝트 소개 </h3>
-<h5 align="center"> • 중고차 등록 현황 및 조회 시스템 </h5>
+<h5 align="center">  중고차 등록 현황 및 조회 시스템 </h5>
 
-- 프로젝트 목적
+<h3 align="center"> • 프로젝트 목적 </h3>
+1. 중고차 
+2. 
+<h3 align="center"> • 프로젝트 목표 </h3>
 
-- 프로젝트 목표
 
 <h1 align="center">  기술 스택  </h1>
 
