@@ -1,9 +1,9 @@
-# 🚗 중고차 시세 조회 및 기업 FAQ 통합 시스템
+# 🚗 중고차 시세 조회 및 중고차 구매 관련 FAQ 통합 시스템
 
 ## 📌 프로젝트 목표
 > 🗓 **개발기간**: 2025.06.09 ~ 2025.06.10  
 
-🎯 본 프로젝트는 사용자에게 **정확하고 유용한 중고차 정보**를 제공하고, **기업별 FAQ 통합 시스템**을 구축하여 **차량 구매 전·후의 의사결정에 도움**을 주는 것을 목표로 합니다.
+🎯 본 프로젝트는 사용자에게 **정확하고 유용한 중고차 정보**를 제공하고, **중고차 구매 관련 FAQ 통합 시스템**을 구축하여 **차량 구매 전·후의 의사결정에 도움**을 주는 것을 목표로 합니다.
 
 - 🚘 **신뢰할 수 있는 중고차 시세** 데이터를 기반으로 사용자에게 실질적인 구매 가이드를 제공  
 - 🧠 사용자가 원하는 조건에 따라 차량을 필터링하여 **맞춤형 차량 검색** 가능  
@@ -20,17 +20,13 @@
 | • 프로젝트 총괄<br/>• 데이터 크롤링 | • 데이터 수집 및 전처리 | • UI 개발 (Streamlit) | • 기능 구현 및 UI 개선 | • DB 구축 및 연동 |
 | [@seunghee-han](https://github.com/seunghee-han) | [@kkminhye](https://github.com/kkminhye) | [@yeseulnim](https://github.com/yeseulnim) | [@sinminju](https://github.com/sinminju) | [@redwin02](https://github.com/redwin-02) |
 
-💬 *“협업과 커뮤니케이션을 통해 각자 맡은 역할을 책임감 있게 수행했습니다.”*
-
 ---
 
 ## 🛠️ 사용 기술 스택
 
-- 🐍 **Python**: 데이터 수집, 처리, 시각화 및 서버 구현 전반  
-- 🐬 **MySQL**: 사용자 요청에 따른 데이터 저장 및 조회 처리  
-- 📊 **Pandas**: 데이터프레임 기반 분석 및 조건 검색 구현  
-- 🌐 **Streamlit**: 직관적인 웹 UI 제공을 위한 프론트엔드 프레임워크  
-- 🛠️ **GitHub**: 코드 협업 및 버전 관리  
+<div>
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</div>div>
 
 ---
 
