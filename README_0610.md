@@ -13,7 +13,8 @@
 ---
 
 
-
+<div>
+    
 ## 📎 기대 효과
 
 - 📌 **중고차 구매자**: 원하는 조건의 차량을 객관적 데이터 기반으로 선택 가능  
@@ -21,12 +22,13 @@
 - 📌 **소비자 만족도 향상**: 자주 묻는 질문을 미리 파악하여 **구매 전 후 고민을 줄일 수 있음**
 
 > ✨ 프로젝트 결과물은 누구나 쉽게 활용할 수 있도록 **Streamlit 기반 웹서비스**로 제공됩니다.
-
+</div>
 ---
 
 
 
-
+<div>
+    
 ## ⭐ 팀 소개
 
 
@@ -35,15 +37,15 @@
 | • 프로젝트 총괄<br/>• 데이터 크롤링 | • 데이터 크롤링 | • Streamlit | • Streamlit | • Streamlit 및 DB 구축 |
 | [@seunghee-han](https://github.com/seunghee-han) | [@kmj212936](https://github.com/kmj212936) | [@jackie817](https://github.com/jackie817) | [@dmswls977](https://github.com/dmswls977) | [@seorinchoi](https://github.com/seorinchoi) |
 
+</div>
 
 
-
-
+<div>
 ## 🛠️ 기술 스택
 <div>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </div>
-
+</div>div>
 
 
 
@@ -79,10 +81,10 @@
 
 - 사용자는 다음 항목을 자유롭게 선택하거나 입력할 수 있습니다:
 
-- 브랜드 선택 (예: 현대, 기아 등)
-차종 선택 (예: 아반떼, EV6 등)
-최소 연식 입력 (예: 2022년)
-최소 주행거리 입력 (예: 10,000(km))
+- 브랜드 선택 (예: 현대, 기아 등) -
+차종 선택 (예: 아반떼, EV6 등) -
+최소 연식 입력 (예: 2022년) -
+최소 주행거리 입력 (예: 10,000(km)) 
 
 ---
 
