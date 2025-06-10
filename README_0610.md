@@ -8,12 +8,11 @@
 
 - 🚘 **신뢰할 수 있는 중고차 시세** 데이터를 기반으로 사용자에게 실질적인 구매 가이드를 제공  
 - 🧠 사용자가 원하는 조건에 따라 차량을 필터링하여 **맞춤형 차량 검색** 가능  
-- 🏢 중고차 구매 관련 **FAQ 통합 조회 시스템**을 통해 구매 전 궁금증 해소 
+- 🏢 중고차 구매 관련 **FAQ 통합 조회 시스템**을 통해 구매 전 궁금증 해소 <br/> <br/> 
 
 ---
 
 
-<div>
     
 ## 📎 기대 효과
 
@@ -21,13 +20,11 @@
 - 📌 **일반 사용자**: 브랜드별 정보 및 차량 모델에 대한 인사이트 획득  
 - 📌 **소비자 만족도 향상**: 자주 묻는 질문을 미리 파악하여 **구매 전 후 고민을 줄일 수 있음**
 
-> ✨ 프로젝트 결과물은 누구나 쉽게 활용할 수 있도록 **Streamlit 기반 웹서비스**로 제공됩니다.
-</div>
+> ✨ 프로젝트 결과물은 누구나 쉽게 활용할 수 있도록 **Streamlit 기반 웹서비스**로 제공됩니다.<br/> <br/> 
 ---
 
 
 
-<div>
     
 ## ⭐ 팀 소개
 
@@ -35,17 +32,14 @@
 | 👩 한승희 (팀장) | 👩 강민정 | 👩 신정은 | 👩 이은진 | 👩 최서린 |
 |:---:|:---:|:---:|:---:|:---:|
 | • 프로젝트 총괄<br/>• 데이터 크롤링 | • 데이터 크롤링 | • Streamlit | • Streamlit | • Streamlit 및 DB 구축 |
-| [@seunghee-han](https://github.com/seunghee-han) | [@kmj212936](https://github.com/kmj212936) | [@jackie817](https://github.com/jackie817) | [@dmswls977](https://github.com/dmswls977) | [@seorinchoi](https://github.com/seorinchoi) |
-
-</div>
+| [@seunghee-han](https://github.com/seunghee-han) | [@kmj212936](https://github.com/kmj212936) | [@jackie817](https://github.com/jackie817) | [@dmswls977](https://github.com/dmswls977) | [@seorinchoi](https://github.com/seorinchoi) |<br/> <br/> 
 
 
-<div>
+
 ## 🛠️ 기술 스택
 <div>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</div>
-</div>div>
+</div><br/> <br/> 
 
 
 
@@ -94,7 +88,7 @@
 
 - 중고차 구매 절차, 서류 준비, 세금, 이전 등록, 보증 등 실제 구매 시 자주 겪는 상황 중심의 질문 카테고리로 구성
 - 사용자의 구매 전 궁금증이나 구매 후 불편 사항을 실시간으로 해소할 수 있는 정보 허브 역할
-- 정확하고 신뢰할 수 있는 정보 제공으로 중고차 거래에 대한 불안감 감소
+- 정확하고 신뢰할 수 있는 정보 제공으로 중고차 거래에 대한 불안감 감소<br/> <br/> 
 
   ---
 
@@ -112,7 +106,7 @@ ________________________________________________________________________________
 • 4페이지: 4개의 검색항목(브랜드명, 모델명, 연식, 주행거리)을 사용해, 원하는 차량 데이터를 확인할 수 있도록 페이지를 구성했습니다. 조건검색을 통해 사용자가 원하는 데이터를 출력하는 페이지입니다.
 ____________________________________________________________________________________________________________________________________________________________________
 • 5페이지: 사용자의 차량 구매 의사결정을 돕는 정보들을, 문의답변 FAQ페이지를 통해 제공합니다.  
-____________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________<br/> <br/> 
 
 
 
