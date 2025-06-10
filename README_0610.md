@@ -29,12 +29,12 @@
 | 👩 한승희 (팀장) | 👩 강민정 | 👩 신정은 | 👩 이은진 | 👩 최서린 |
 |:---:|:---:|:---:|:---:|:---:|
 | • 프로젝트 총괄<br/>• 데이터 크롤링 | • 데이터 수집 및 전처리 | • UI 개발 (Streamlit) | • 기능 구현 및 UI 개선 | • DB 구축 및 연동 |
-| [@seunghee-han](https://github.com/seunghee-han) | [@kkminhye](https://github.com/kkminhye) | [@yeseulnim](https://github.com/yeseulnim) | [@sinminju](https://github.com/sinminju) | [@redwin02](https://github.com/redwin-02) |
+| [@seunghee-han](https://github.com/seunghee-han) | [@seorinchoi](https://github.com/seorinchoi) | [@dmswls977](https://github.com/yeseulnim) | [@dmswls977](https://github.com/dmswls977) | [@jackie817](https://github.com/jackie817) |
 
 
 
 
-## ⭐ 기술 스택
+## 🛠️ 기술 스택
 <div>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </div>
